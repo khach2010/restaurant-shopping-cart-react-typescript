@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Hawaii",
+    "price": 10.99,
+    "imgUrl": "/imgs/Pizza Hawaii.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Pizza Magarita",
+    "price": 12.99,
+    "imgUrl": "/imgs/pizza magarita.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Pizza Salami",
+    "price": 13.99,
+    "imgUrl": "/imgs/pizza salami.png"
+  },
+  {
+    "id": 4,
+    "name": "Pizza Tono",
+    "price": 11.45,
+    "imgUrl": "/imgs/pizza tono.jpeg"
+  }
+]
